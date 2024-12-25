@@ -7,3 +7,10 @@ data/*.tsv.gz
 
 # Ignore database credentials
 *.env
+
+/Users/alirezadashchi/Desktop/Github/imdb-data-analysis/data/title.akas.tsv
+/Users/alirezadashchi/Desktop/Github/imdb-data-analysis/data/title.basics.tsv
+/Users/alirezadashchi/Desktop/Github/imdb-data-analysis/data/title.principals.tsv
+/Users/alirezadashchi/Desktop/Github/imdb-data-analysis/data/title.crew.tsv
+/Users/alirezadashchi/Desktop/Github/imdb-data-analysis/data/title.episode.tsv
+/Users/alirezadashchi/Desktop/Github/imdb-data-analysis/data/name.basics.tsv
