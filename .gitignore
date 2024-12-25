@@ -1,0 +1,9 @@
+# Ignore raw datasets
+data/*.tsv.gz
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore database credentials
+*.env
