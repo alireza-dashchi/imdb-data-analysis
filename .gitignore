@@ -7,3 +7,6 @@ data/*.tsv.gz
 
 # Ignore database credentials
 *.env
+
+# Ignore large files in the data folder
+data/*.tsv
